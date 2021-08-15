@@ -1,0 +1,85 @@
+.logo-container{
+    width: 90vw;
+    height: 100px;
+    padding: 20px;
+}
+.logo{
+    margin-top: -20px;
+}
+
+.landing-page{
+    width: 90vw;
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.side-bar{
+    height: 100%;
+    width: 25%;
+}
+
+
+
+.nav-items{
+    list-style: none;
+    margin-left:-40px ;
+    margin-top: 10px;
+    color: #B2B1B9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-items-list{
+    margin-bottom: 50px;
+    
+}
+
+.nav-active{
+    text-decoration: line-through  #FF2626;
+}
+
+.cart-button{
+    height: 42px;
+    width: 100px;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 15px;
+    background-color: #FF2626;
+    color: #FDF6F0;
+}
+
+.content{
+    display: flex;
+    margin-top: -40px;
+    
+}
+
+.heading{
+    margin-right: 30%;
+    font-size:28px ;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    
+}
+
+.discription{
+    color: #B2B1B9 ;
+    font-family: 'Open Sans', sans-serif;
+    width: 25%;
+}
+
+.hr-line{
+    border: 0.1px solid  #FF2626 ;
+    width: 60px;
+    float: left ;
+}
+
+.card-item{
+    
+    background-color:grey;
+    height: 90px;
+    width: 50px;
+}
+
+
