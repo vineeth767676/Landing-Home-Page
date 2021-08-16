@@ -16,10 +16,11 @@ header {
 
 .logo-text {
     font-family: 'Playfair Display', serif;
+    margin: 0px;
 }
 
 .logo {
-    margin-top: -20px;
+    margin-top: -10px;
 }
 
 /* This clears hover of element on element */
@@ -81,6 +82,10 @@ header {
     width: 40%;
     font-size: 25px;
     font-family: 'Playfair Display', serif;
+}
+
+.text-heading{
+    margin:0px;
 }
 
 .discription {
